@@ -1,0 +1,33 @@
+.root {
+    -fx-font-family: "Arial";
+    -fx-background-color: #c4d9e9;
+}
+
+.page-title {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+}
+
+.button {
+    -fx-background-color: #0078d7;
+    -fx-text-fill: white;
+    -fx-padding: 10 20;
+    -fx-font-size: 14px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.button:hover {
+    -fx-background-color: #005fae;
+}
+
+.delete-button {
+    -fx-pref-width: 25px;  
+    -fx-pref-height: 25px; 
+    -fx-font-size: 12px;   
+    -fx-background-color: red;
+    -fx-text-fill: white; 
+    -fx-background-radius: 5px;
+}
+

@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Raymond\Desktop\Prak. PBO\Proyek_Akhir\DaftarBelanja\target\DaftarBelanja.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Raymond\Desktop\Prak. PBO\Proyek_Akhir\DaftarBelanja\target\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-22
+Substitute:	PATH = C:\tez;C:\Python312\Scripts\;C:\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\Raymond\anaconda3;C:\Users\Raymond\anaconda3\Library\mingw-w64\bin;C:\Users\Raymond\anaconda3\Library\usr\bin;C:\Users\Raymond\anaconda3\Library\bin;C:\Users\Raymond\anaconda3\Scripts;C:\Users\Raymond\AppData\Local\Microsoft\WindowsApps;C:\msys64\mingw64\bin;C:\xampp\php;C:\Users\Raymond\AppData\Local\ComposerSetup\bin;C:\Users\Raymond\AppData\Roaming\Composer\vendor\bin;C:\Users\Raymond\AppData\Roaming\npm;c:\Users\Raymond\AppData\Local\Programs\cursor\resources\app\bin;c:\Users\Raymond\AppData\Local\Programs\cursor\resources\app\bin;C:\hadoop\bin;C:\hadoop\sbin;%JAVA_HOME%\bin;C:\pig-0.17.0\bin;%HIVE_HOME%\bin;%DERBY_HOME%\bin;C:\wget;C:\Python312;C:\Users\Raymond\anaconda3;C:\Users\Raymond\anaconda3\Library\mingw-w64\bin;C:\Users\Raymond\anaconda3\Library\usr\bin;C:\Users\Raymond\anaconda3\Library\bin;C:\Users\Raymond\anaconda3\Scripts;C:\Users\Raymond\AppData\Local\Microsoft\WindowsApps;C:\Users\Raymond\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\mingw64\bin;C:\xampp\php;C:\Users\Raymond\AppData\Local\ComposerSetup\bin;C:\Users\Raymond\AppData\Roaming\Composer\vendor\bin;C:\Users\Raymond\AppData\Roaming\npm;C:\Python312;C:\Program Files\Java\jdk-22\bin;;C:\Program Files\Java\jdk-22\bin
+JRE paths:	C:\Program Files\Java\jdk-22;C:\tez;C:\Python312\Scripts\;C:\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\Raymond\anaconda3;C:\Users\Raymond\anaconda3\Library\mingw-w64\bin;C:\Users\Raymond\anaconda3\Library\usr\bin;C:\Users\Raymond\anaconda3\Library\bin;C:\Users\Raymond\anaconda3\Scripts;C:\Users\Raymond\AppData\Local\Microsoft\WindowsApps;C:\msys64\mingw64\bin;C:\xampp\php;C:\Users\Raymond\AppData\Local\ComposerSetup\bin;C:\Users\Raymond\AppData\Roaming\Composer\vendor\bin;C:\Users\Raymond\AppData\Roaming\npm;c:\Users\Raymond\AppData\Local\Programs\cursor\resources\app\bin;c:\Users\Raymond\AppData\Local\Programs\cursor\resources\app\bin;C:\hadoop\bin;C:\hadoop\sbin;%JAVA_HOME%\bin;C:\pig-0.17.0\bin;%HIVE_HOME%\bin;%DERBY_HOME%\bin;C:\wget;C:\Python312;C:\Users\Raymond\anaconda3;C:\Users\Raymond\anaconda3\Library\mingw-w64\bin;C:\Users\Raymond\anaconda3\Library\usr\bin;C:\Users\Raymond\anaconda3\Library\bin;C:\Users\Raymond\anaconda3\Scripts;C:\Users\Raymond\AppData\Local\Microsoft\WindowsApps;C:\Users\Raymond\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\mingw64\bin;C:\xampp\php;C:\Users\Raymond\AppData\Local\ComposerSetup\bin;C:\Users\Raymond\AppData\Roaming\Composer\vendor\bin;C:\Users\Raymond\AppData\Roaming\npm;C:\Python312;C:\Program Files\Java\jdk-22\bin;;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Raymond\Desktop\Prak. PBO\Proyek_Akhir\DaftarBelanja\target\DaftarBelanja.exe"
+Args length:	93/32768 chars
+Exit code:	0
